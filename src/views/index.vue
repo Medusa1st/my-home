@@ -30,7 +30,7 @@ export default {
     }
   },
   mounted(){
-    document.querySelector('body').style.backgroundImage = 'url(http://medusa1st.me/images/sunny-' + parseInt(Math.random()*3 +1) + '.jpg)';
+    document.querySelector('body').style.backgroundImage = 'url(http://medusa1st.me/images/bg-sunny-' + parseInt(Math.random()*3 +1) + '.jpg)';
   }
 }
 </script>
