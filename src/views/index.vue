@@ -26,7 +26,7 @@ export default {
       blogTitle: '我的博客',
       blogLink: 'http://medusa1st.me/wordpress/',
       worksTitle: '我的作品',
-      worksLink: 'http://medusa1st.me/livepark/'
+      worksLink: 'http://medusa1st.me/works/'
     }
   },
   mounted(){
