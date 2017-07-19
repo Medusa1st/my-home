@@ -24,7 +24,7 @@ export default {
       resumeTitle: '我的简历',
       resumeLink: 'http://medusa1st.me/resume/',
       blogTitle: '我的博客',
-      blogLink: 'http://medusa1st.me/wordpress/',
+      blogLink: 'http://www.cnblogs.com/medusa1st/',
       worksTitle: '我的作品',
       worksLink: 'http://medusa1st.me/works/'
     }
