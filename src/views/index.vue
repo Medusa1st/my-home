@@ -43,10 +43,11 @@ export default {
   -ms-user-select: none;
   -o-user-select: none;
   user-select: none;
-  max-width: 500px;
-  max-height: 100px;
+  width: 500px;
+  height: 100px;
   margin: 0 auto;
   position: absolute;top:0;left:0;bottom:0;right:0;margin:auto;
+  font-family: "Microsoft Yahei";
 }
 .title{
   font-size: 20px;
